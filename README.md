@@ -1,3 +1,5 @@
+*note: this forked repo is left **in state** as a solid reflection of an exhaustive group project mvp deliverable, as much as possible content reflects the original at the time of project assignment submission, and this repo is re-established in a separate new repo for further development*
+
 # INHERITANCE
 #### destined for existence as an app and/or online at ```https://inheritance.artifacts``` accompanied by the tagline *'where life lives'*
 
