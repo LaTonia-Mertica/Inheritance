@@ -80,21 +80,25 @@ Quit the server with CONTROL-C.
 <br>
 
 <img src="Images/landing_page.jpg" title="" alt=""/>
+
 Landing Page establishes overall ambiance and navigation. It also, through SYMBOLIC RELEASE, demonstrates our elevated dedication to self-awareness and holistic health.
 
 <br>
 
 <img src="Images/our_story.jpg" title="" alt=""/>
+
 Our Story shares insight, intent, self-awareness, and sense of community at the heart of the creation of Inheritance. 
 
 <br>
 
 <img src="Images/add_artifact.jpg" title="" alt=""/>
+
 Add Artifact is the opportunity to consider what you will add to the story. In other words, what image and description you would submit as an artifact.
 
 <br>
 
 <img src="Images/gallery.jpg" title="" alt=""/>
+
 Gallery is a collection of the vibrancy of contributions to the Inheritance community through shared artifacts.
 
 <br>
